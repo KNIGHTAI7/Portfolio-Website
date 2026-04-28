@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Priyanshu Harendra Singh — Portfolio Website
+# 🚀 Priyanshu Harendra Singh
 
 ### Personal Portfolio · Data Analyst & AI/ML Engineer
 
