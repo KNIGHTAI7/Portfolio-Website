@@ -110,6 +110,7 @@ Portfolio-Website/
 |---|---|
 | 📧 Email | priyanshuav7725@gmail.com |
 | 💻 GitHub | [KNIGHTAI7](https://github.com/KNIGHTAI7) |
+| [in] LinkedIn | https://www.linkedin.com/in/priyanshu-singh-b597ba37b/ |
 | 📍 Location | Surat, Gujarat, India |
 | 📞 Phone | +91 9104929410 |
 
