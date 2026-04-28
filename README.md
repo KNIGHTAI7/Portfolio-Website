@@ -71,35 +71,6 @@ Portfolio-Website/
 
 ---
 
-## 🚀 Run Locally
-
-No installation needed. Just:
-
-```bash
-# Clone the repo
-git clone https://github.com/KNIGHTAI7/Portfolio-Website.git
-
-# Open in browser
-cd Portfolio-Website
-open portfolio.html
-```
-
-Or simply **double-click** `portfolio.html` to open in any browser.
-
----
-
-## 🌐 Deploy on Vercel
-
-1. Push repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → **New Project**
-3. Import `KNIGHTAI7/Portfolio-Website`
-4. Set **Output Directory** to `/` (root)
-5. Click **Deploy** — done ✅
-
-Then update the `YOUR_VERCEL_LINK_HERE` placeholders in this README and in the portfolio itself.
-
----
-
 ## 📂 Sections
 
 | # | Section | Description |
