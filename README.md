@@ -16,7 +16,7 @@ A fully custom, single-file portfolio website built with pure **HTML, CSS & Java
 
 > 🚧 **Deploy link coming soon** — will be hosted on Vercel
 >
-> **Link:** `YOUR_VERCEL_LINK_HERE`
+> **Link:** `https://portfolio-website-qfmrvy780-knightai7s-projects.vercel.app/`
 
 ---
 
