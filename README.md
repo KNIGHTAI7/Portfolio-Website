@@ -14,7 +14,7 @@ A fully custom, single-file portfolio website built with pure **HTML, CSS & Java
 
 ## 🔗 Live Demo
 
-> **Link:** https://portfolio-website-qfmrvy780-knightai7s-projects.vercel.app/
+> **Link:** https://portfolio-website-3uwa.vercel.app/
 
 ---
 
